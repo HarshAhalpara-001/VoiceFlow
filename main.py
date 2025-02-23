@@ -81,7 +81,7 @@ def listen():
     except sr.RequestError:
         speak("Sorry, my speech service is down.")
         return None
-
+        
 # Main loop for voice assistance
 def voice_assistance():
     speak("Hello! How can I assist you today?")
