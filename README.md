@@ -1,6 +1,4 @@
 
-
-```markdown
 # VoiceFlow 🎤
 
 **VoiceFlow** is an intelligent voice assistant powered by **Natural Language Processing (NLP)** and trained using **spaCy**. It understands your voice commands and performs tasks like opening apps, adjusting system settings, and more. With accurate intent recognition and entity extraction, VoiceFlow makes your daily tasks effortless and efficient.
@@ -105,4 +103,4 @@ Contributions are welcome! If you'd like to improve VoiceFlow, follow these step
 5. Open a pull request.
 
 ---
-```
+
